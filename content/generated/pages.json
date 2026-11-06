@@ -1,0 +1,835 @@
+[
+  {
+    "enabled": true,
+    "slug": "eggs",
+    "pageType": "guide",
+    "navLabel": "Eggs",
+    "title": "Raise A Catboy Eggs: How to Find and Hatch Eggs",
+    "description": "Learn how eggs work in Raise A Catboy: steal an egg, escape back to your café, hatch a Catboy, and find rarer eggs in later areas.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Raise A Catboy guide",
+      "heading": "Raise A Catboy Eggs and Hatching Guide",
+      "lead": "The confirmed egg loop is: take an egg from Catboys, return safely to your café, and hatch it into a Catboy. The official description also says later areas contain rarer eggs and faster guards."
+    },
+    "sections": [
+      {
+        "id": "how-to-get-eggs",
+        "heading": "How to Get Eggs in Raise A Catboy",
+        "intro": "The public description supports the core sequence, but not a complete egg spawn map, exact controls, or guaranteed routes.",
+        "subsections": [
+          {
+            "heading": "Steal an egg from Catboys",
+            "paragraphs": [
+              "Egg stealing is a core action in the accessible game description. Treat that as the reliable starting point: the player obtains an egg from Catboys before trying to bring it home.",
+              "This guide intentionally does not invent a keybind, interaction radius, respawn timer, egg spawn coordinate, or “best” theft technique. Those details require direct in-game verification before they can be presented as instructions."
+            ]
+          },
+          {
+            "heading": "Escape back to your café",
+            "paragraphs": [
+              "The next confirmed task is returning the egg to the café. Later areas are described as more difficult and associated with faster guards, which makes escape part of progression rather than a decorative step.",
+              "Because guard AI, routes, and exact speeds were not verified, the safe guidance is to focus on the confirmed objective—get the egg back—without publishing fake route optimization."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-to-hatch",
+        "heading": "How to Hatch Eggs",
+        "subsections": [
+          {
+            "heading": "What hatching gives you",
+            "paragraphs": [
+              "Once an egg reaches the café, hatching turns it into a Catboy. The confirmed gameplay loop then connects Catboys with earning cash over time, so hatching is the bridge between stealing an egg and growing your economy.",
+              "The accessible sources do not establish one universal hatch timer, whether every egg uses the same timing, or exact income values for each result. Those numbers are therefore not shown here."
+            ]
+          },
+          {
+            "heading": "What the official listing does not specify",
+            "paragraphs": [
+              "The public game description explains the purpose of eggs at a high level but does not provide a complete odds table, all egg names, or a verified list of hatch percentages.",
+              "If a future in-game screen or official post supplies those details, this page should be updated with the source date instead of retrofitting guesses into the current guide."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rarer-eggs",
+        "heading": "How to Find Rarer Eggs",
+        "subsections": [
+          {
+            "heading": "Later areas and faster guards",
+            "paragraphs": [
+              "The confirmed description links later areas with rarer eggs and faster guards. That establishes a progression relationship: rarer egg opportunities are associated with pushing farther into the game.",
+              "It does not establish which named rarity belongs to which exact area, how often an egg appears, or a guaranteed route. Any area-by-tier table would be speculative until verified."
+            ]
+          },
+          {
+            "heading": "Why Speed training matters",
+            "paragraphs": [
+              "The game description also calls out training Speed on the cat wheel. Combined with the mention of faster guards in later areas, Speed is clearly part of the progression loop.",
+              "This page stops short of publishing required Speed thresholds or optimal training breakpoints because no verified values were included in the project evidence."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "new-egg-system",
+        "heading": "What Changed in the New Egg System?",
+        "intro": "The November 2–7 Mutations + QoL announcement included a “New Egg System,” but the accessible announcement did not provide enough detail to reconstruct every mechanic.",
+        "subsections": [
+          {
+            "heading": "What the announcement confirms",
+            "paragraphs": [
+              "The dated update listing names New Mutations, a New Egg System, New World Events, and Playtime Rewards. For eggs, that confirms that the system was part of the announced update scope.",
+              "It does not by itself prove a new drop-rate table, a specific hatch animation, a particular egg inventory interface, or any exact odds."
+            ]
+          },
+          {
+            "heading": "What still needs in-game verification",
+            "paragraphs": [
+              "Before this page adds detailed new-system instructions, the implementation should be checked in the live game: how eggs are collected, where they appear, whether the hatch flow changed, and what information the UI actually exposes.",
+              "Until then, the reliable player answer remains the confirmed high-level loop rather than a fabricated “complete” system guide."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Read the mutations update",
+            "slug": "mutations",
+            "description": "See the exact features named in the dated Mutations + QoL announcement."
+          },
+          {
+            "label": "Check documented rarity labels",
+            "slug": "rarities",
+            "description": "Keep egg acquisition separate from the rarity-label reference."
+          }
+        ]
+      },
+      {
+        "id": "egg-guide-checklist",
+        "heading": "Egg Guide: What Is Confirmed vs. Unverified",
+        "table": {
+          "caption": "Raise A Catboy egg information status as reviewed November 6, 2026",
+          "columns": [
+            "Topic",
+            "Status",
+            "What this guide can safely say"
+          ],
+          "rows": [
+            [
+              "Stealing eggs",
+              "Confirmed",
+              "Egg stealing is a core part of the public gameplay loop."
+            ],
+            [
+              "Returning to café",
+              "Confirmed",
+              "Players bring the egg back to their café before hatching."
+            ],
+            [
+              "Hatching into Catboys",
+              "Confirmed",
+              "Eggs hatch into Catboys that connect to the earning loop."
+            ],
+            [
+              "Rarer eggs in later areas",
+              "Confirmed at high level",
+              "The public description links later areas to rarer eggs and faster guards."
+            ],
+            [
+              "Exact egg names",
+              "Unverified",
+              "No complete current list is asserted."
+            ],
+            [
+              "Drop rates / hatch odds",
+              "Unverified",
+              "No official percentage table is asserted."
+            ],
+            [
+              "Exact spawn locations",
+              "Unverified",
+              "No map coordinates or guaranteed spawn path is asserted."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "avoid-egg-misinformation",
+        "heading": "Common Egg Guide Mistakes to Avoid",
+        "paragraphs": [
+          "Do not confuse a rarity label with a verified hatch probability. The rarity reference can document names such as Common or Divine, but the accessible sources do not publish a complete official odds table.",
+          "Do not treat developer-product pricing as a natural egg drop rate, and do not assume an egg associated with a seasonal event uses the same rules as permanent eggs. Those are separate questions that need separate evidence.",
+          "Finally, do not copy a map coordinate or “best farming route” unless it has been checked against the current Raise A Catboy experience. Fast-moving Roblox games can change, and a precise-looking route becomes harmful if it points players to outdated content."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you get eggs in Raise A Catboy?",
+        "answer": "The confirmed loop is to take an egg from Catboys and get it safely back to your café. Exact controls, spawn coordinates, and guaranteed routes are not established in the sources used for this guide."
+      },
+      {
+        "question": "How do you hatch eggs in Raise A Catboy?",
+        "answer": "The public gameplay description says eggs are brought back to the café and hatched into Catboys. It does not establish a universal hatch timer or exact hatch odds."
+      },
+      {
+        "question": "Where are rarer eggs?",
+        "answer": "The official-style game description says later areas contain rarer eggs and faster guards. A verified area-by-rarity map was not available, so this guide does not invent one."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "rarities",
+      "mutations",
+      "thanksgiving-event"
+    ],
+    "lastReviewed": "2026-11-06",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/129852792970565",
+        "title": "Raise A Catboy on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://lootwiki.com/raise-a-catboy/how-to-play/",
+        "title": "Gameplay loop reference reviewed during project research",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "rarities",
+    "pageType": "list",
+    "navLabel": "Rarities",
+    "title": "Raise A Catboy Rarities: 11 Known Rarity Tiers",
+    "description": "Check the 11 rarity labels documented for Raise A Catboy, from Common to Divine, and learn what the available Roblox data does and does not show.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Raise A Catboy guide",
+      "heading": "Raise A Catboy Rarities Explained",
+      "lead": "Eleven rarity labels were documented from Roblox developer-product names in the November 3 research snapshot: Common, Rare, Epic, Legendary, Mythic, Relic, Exotic, Ascendant, Secret, Super Secret, and Divine. This is not an official drop-rate table."
+    },
+    "sections": [
+      {
+        "id": "all-rarity-labels",
+        "heading": "All 11 Raise A Catboy Rarity Labels",
+        "intro": "The list below is a source-dated reference, not a claim about current hatch probability, income, power, or guaranteed progression order.",
+        "table": {
+          "caption": "Documented Raise A Catboy rarity labels — source snapshot reviewed November 3, 2026",
+          "columns": [
+            "Label",
+            "Evidence status",
+            "Important limitation"
+          ],
+          "rows": [
+            [
+              "Common",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Rare",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Epic",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Legendary",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Mythic",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Relic",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Exotic",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Ascendant",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Secret",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Super Secret",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ],
+            [
+              "Divine",
+              "Documented label",
+              "Observed in the Nov. 3 developer-product-based reference; not a drop-rate percentage."
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Source and date of the rarity list",
+            "paragraphs": [
+              "The project research captured eleven names from a third-party reference that traced the labels to Roblox developer products on November 3, 2026. That makes the labels useful as a documented snapshot.",
+              "Direct live product-API revalidation was not available in the handoff, so this page attaches the date to the list and does not present old prices or assume the list can never change."
+            ]
+          },
+          {
+            "heading": "How we order the labels",
+            "paragraphs": [
+              "The recorded list is presented in the same broad sequence used by the captured reference: Common through Divine. The highest-priced “Steal” product label in that snapshot was Divine.",
+              "Price order is not the same thing as official hatch probability, combat power, income, or a formal developer-published rarity hierarchy. The page therefore calls these documented labels rather than an official odds ranking."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "drop-rates",
+        "heading": "Do Rarity Names Reveal Drop Rates?",
+        "subsections": [
+          {
+            "heading": "No official hatch percentages",
+            "paragraphs": [
+              "No official probability table was established in the accessible project evidence. A label such as Divine or Secret may communicate scarcity, but it does not tell us a verified percentage chance.",
+              "For that reason, this guide does not invent values such as “1%” or “0.1%,” and it does not copy unsourced community percentages into a table."
+            ]
+          },
+          {
+            "heading": "Pricing is not probability or power",
+            "paragraphs": [
+              "Developer-product pricing can be evidence that a label exists, but it cannot independently prove how often a result appears from normal gameplay. It also does not prove how much cash a Catboy earns or whether one result is always stronger than another.",
+              "A future direct in-game rarity panel, official odds notice, or developer statement would be stronger evidence for those questions. Until then, price and probability stay separate."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progression",
+        "heading": "How Rarer Eggs Relate to Progression",
+        "subsections": [
+          {
+            "heading": "Later areas and Speed",
+            "paragraphs": [
+              "The confirmed game description says players can reach later areas with rarer eggs and faster guards, while the cat wheel is used to train Speed. That establishes a real progression connection between movement capability, harder areas, and rarer egg opportunities.",
+              "It does not establish an exact “Common in Zone 1, Rare in Zone 2” mapping, so this page avoids a tier-to-area chart without direct evidence."
+            ]
+          },
+          {
+            "heading": "Egg acquisition vs. rarity label",
+            "paragraphs": [
+              "The egg page answers how the acquisition and hatch loop works. This rarity page answers what labels have been documented and what those labels do—or do not—prove.",
+              "Keeping those tasks separate prevents a player looking for a rarity reference from having to read an entire stealing tutorial, while also avoiding duplicate pages for every keyword variation."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How to get and hatch eggs",
+            "slug": "eggs",
+            "description": "Use the egg guide for the acquisition and hatch loop."
+          }
+        ]
+      },
+      {
+        "id": "rarity-vs-mutations",
+        "heading": "Rarity and Mutations Are Different Questions",
+        "subsections": [
+          {
+            "heading": "What rarity describes",
+            "paragraphs": [
+              "Rarity labels are documented category names associated with Catboy-related developer products in the captured source. They are useful as classification terms, but their exact gameplay math remains unverified in the evidence package."
+            ]
+          },
+          {
+            "heading": "What the Mutation update announced",
+            "paragraphs": [
+              "The November Mutations + QoL announcement separately named “New Mutations.” Because the announcement did not publish verified mutation names or effects in the accessible evidence, mutations are treated as a different system and maintained on their own page."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Mutations update",
+            "slug": "mutations",
+            "description": "See what the November announcement confirmed and what still needs verification."
+          }
+        ]
+      },
+      {
+        "id": "maintenance",
+        "heading": "How This Rarity List Is Maintained",
+        "subsections": [
+          {
+            "heading": "Source log and new labels",
+            "paragraphs": [
+              "A new label should be added only when it is visible in a current Roblox developer product, an official post, or direct in-game evidence that can be dated. A third-party list can point to a candidate, but it should not silently become a permanent fact without a source trail."
+            ]
+          },
+          {
+            "heading": "When to revise an entry",
+            "paragraphs": [
+              "If a developer product disappears, is renamed, or a live in-game rarity panel provides a different set, the page should record the newer evidence and review date. Historical prices should not be kept as if they are current unless they are directly rechecked."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many rarities are in Raise A Catboy?",
+        "answer": "Eleven names were identifiable in the November 3 developer-product-based snapshot used for this project. Because direct live revalidation was not completed, this guide treats the count as a dated documented list rather than an eternal official total."
+      },
+      {
+        "question": "What is the rarest Catboy?",
+        "answer": "Divine was the highest-priced Steal label in the captured developer-product list. That is not proof of the rarest natural hatch odds, so this guide does not convert price order into a probability claim."
+      },
+      {
+        "question": "What is the drop chance of Divine?",
+        "answer": "No official Divine hatch probability was established in the accessible sources, so no percentage is published here."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "eggs",
+      "mutations"
+    ],
+    "lastReviewed": "2026-11-06",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/129852792970565",
+        "title": "Raise A Catboy on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://lootwiki.com/raise-a-catboy/rarities/",
+        "title": "Rarity reference reviewed during project research",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "mutations",
+    "pageType": "updates",
+    "navLabel": "Mutations",
+    "title": "Raise A Catboy Mutations Update: What Is Confirmed",
+    "description": "See what the Raise A Catboy Mutations update announced, including the new egg system, world events and playtime rewards, with dated source notes.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Raise A Catboy guide",
+      "heading": "Raise A Catboy Mutations Update",
+      "lead": "The November 2–7, 2026 “MUTATIONS + QoL Update” announcement listed New Mutations, a New Egg System, New World Events, and Playtime Rewards. The available evidence does not verify individual mutation names, effects, odds, or obtain methods."
+    },
+    "sections": [
+      {
+        "id": "announcement",
+        "heading": "What the Raise A Catboy Mutations Update Announced",
+        "intro": "This page is announcement-first: it records what the dated listing actually named and separates that from mechanics that still require live verification.",
+        "table": {
+          "caption": "Features named in the November 2–7, 2026 Mutations + QoL announcement",
+          "columns": [
+            "Announced item",
+            "Verified statement",
+            "What is not established"
+          ],
+          "rows": [
+            [
+              "New Mutations",
+              "The event listing names new mutations.",
+              "Mutation names, effects, multipliers, odds, and obtain methods are not verified."
+            ],
+            [
+              "New Egg System",
+              "The listing names a new egg system.",
+              "Exact interface, odds, spawn rules, or hatch timing are not verified."
+            ],
+            [
+              "New World Events",
+              "The listing names new world events.",
+              "Event rotation, triggers, schedules, and rewards are not verified."
+            ],
+            [
+              "Playtime Rewards",
+              "The listing names playtime rewards.",
+              "Reward ladder, timing thresholds, and items are not verified."
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Source and update window",
+            "paragraphs": [
+              "The project handoff records a Roblox virtual-event digest for November 2 through November 7, 2026 under the title “MUTATIONS + QoL Update.” The accessible evidence came through a dated reference rather than a direct live Roblox event-page read.",
+              "That means the announcement scope is useful, but effect-level claims still need first-party or in-game confirmation before publication."
+            ]
+          },
+          {
+            "heading": "Why this is not a full mutation list yet",
+            "paragraphs": [
+              "The word “Mutations” in an announcement does not supply the names or properties of every mutation. Publishing a complete-looking list without evidence would be more misleading than leaving a clearly labeled verification gap.",
+              "This page therefore answers the real current question—what was announced—and is designed to accept verified mutation entries later without changing the URL or search intent."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-mutations-work",
+        "heading": "How Do Mutations Work in Raise A Catboy?",
+        "subsections": [
+          {
+            "heading": "What is confirmed",
+            "paragraphs": [
+              "A mutation system was explicitly named in the dated update announcement. That is enough to establish that mutations are a real game topic and a distinct player task from rarity labels or Thanksgiving event content.",
+              "The project evidence does not establish whether mutations alter income, appearance, rarity, movement, hatch odds, or some other property. Those effects remain unverified."
+            ]
+          },
+          {
+            "heading": "What still needs in-game proof",
+            "paragraphs": [
+              "A reliable mechanics section needs direct observations or an official explanation showing mutation names, how players obtain them, what each one changes, whether effects stack, and whether the system has probabilities.",
+              "Until that evidence exists, this guide avoids plausible-sounding mechanics and instead tells players exactly which details are still awaiting confirmation."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "new-egg-system",
+        "heading": "How the Mutation Update Relates to the New Egg System",
+        "subsections": [
+          {
+            "heading": "Two announced systems in one update",
+            "paragraphs": [
+              "The same dated update listing named both New Mutations and a New Egg System. That makes it reasonable to discuss them together as parts of the same update window, but it does not prove a specific cause-and-effect relationship between mutations and hatching."
+            ]
+          },
+          {
+            "heading": "Keep egg instructions on the egg page",
+            "paragraphs": [
+              "The dedicated egg guide covers the confirmed steal → return → hatch loop and later-area progression. This page only records the new-system announcement so the two URLs do not compete by repeating the same tutorial."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Raise A Catboy eggs",
+            "slug": "eggs",
+            "description": "Use the egg guide for acquisition, hatching, and progression details that are actually verified."
+          }
+        ]
+      },
+      {
+        "id": "world-events-rewards",
+        "heading": "New World Events and Playtime Rewards",
+        "subsections": [
+          {
+            "heading": "World events were announced",
+            "paragraphs": [
+              "“New World Events” appears in the update scope recorded by the project research. No verified rotation timetable, event trigger, reward table, or named event list was included in the accessible evidence."
+            ]
+          },
+          {
+            "heading": "Playtime rewards were announced",
+            "paragraphs": [
+              "“Playtime Rewards” was also named. Without a direct in-game reward screen, this page does not publish time thresholds, item names, or quantities. Those are high-change details that should be copied only from current evidence."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "verification-log",
+        "heading": "Mutation Verification Checklist",
+        "bullets": [
+          "Confirm a mutation name from a current in-game screen or first-party source.",
+          "Record how the mutation is obtained before writing a step-by-step method.",
+          "Record the exact effect and any visible numeric modifier only when directly shown.",
+          "Keep rarity labels separate unless a first-party source explicitly connects rarity and mutation mechanics.",
+          "Update the review date when verified mechanics replace announcement-only wording."
+        ]
+      },
+      {
+        "id": "mutation-vs-rarity",
+        "heading": "Mutations vs. Rarities: Keep the Systems Separate",
+        "paragraphs": [
+          "The project evidence supports both a documented rarity-label set and a separately announced mutation system. It does not establish that every rarity has a matching mutation, that mutations change rarity, or that one system determines the odds of the other.",
+          "For players, that means the rarity page is the right place to check documented category names, while this page is the right place to track mutation mechanics once effects and obtain methods can be verified. Separating the tasks also prevents one page from repeating the same keywords and claims as another."
+        ]
+      },
+      {
+        "id": "update-policy",
+        "heading": "How This Mutation Guide Will Be Updated",
+        "paragraphs": [
+          "When direct evidence becomes available, new mutation information should be added in a fixed order: name, source date, obtain method, observable effect, and any numeric value that the game actually displays. If only a community claim exists, it should remain outside the confirmed table until independently checked.",
+          "If the developer changes or removes a mutation, the page should update the current guidance rather than silently preserving an old effect as evergreen truth. The last-reviewed date should move only when the underlying facts are actually rechecked."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Are mutations in Raise A Catboy?",
+        "answer": "Yes. The November 2–7, 2026 Mutations + QoL announcement explicitly listed New Mutations."
+      },
+      {
+        "question": "What are all the Raise A Catboy mutations?",
+        "answer": "A verified complete mutation list was not available in the project evidence, so this page does not invent names or copy unsourced lists."
+      },
+      {
+        "question": "What do mutations do?",
+        "answer": "The accessible announcement confirms the system but not individual effects. Exact effects should be added only after direct in-game or first-party verification."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "eggs",
+      "rarities",
+      "thanksgiving-event"
+    ],
+    "lastReviewed": "2026-11-06",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/129852792970565",
+        "title": "Raise A Catboy on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://lootwiki.com/raise-a-catboy/updates/",
+        "title": "Update digest reviewed during project research",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "thanksgiving-event",
+    "pageType": "updates",
+    "navLabel": "Thanksgiving",
+    "title": "Raise A Catboy Thanksgiving Event: Dates & Preview",
+    "description": "Check the scheduled Raise A Catboy Thanksgiving event dates, limited-time egg, event pass and new zones. Preview based on the Roblox event listing.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Raise A Catboy guide",
+      "heading": "Raise A Catboy Thanksgiving Event Guide",
+      "lead": "The captured Roblox event listing schedules the Raise A Catboy Thanksgiving event for November 8–22, 2026 UTC and announces New Zones, an Event Pass, a Limited Time Egg, and quality-of-life improvements. As of the November 6 review, this is still a preview, not proof that the event is live."
+    },
+    "sections": [
+      {
+        "id": "dates",
+        "heading": "Raise A Catboy Thanksgiving Event Dates",
+        "intro": "Treat these as scheduled listing dates. An exact activation hour and the current live-server state were not verified in the project evidence.",
+        "table": {
+          "caption": "Thanksgiving event schedule captured in the November 3 project research",
+          "columns": [
+            "Milestone",
+            "Scheduled date",
+            "Verification note"
+          ],
+          "rows": [
+            [
+              "Start",
+              "November 8, 2026",
+              "Scheduled by the captured event listing; exact activation time not confirmed."
+            ],
+            [
+              "End",
+              "November 22, 2026 (UTC)",
+              "Scheduled end in the captured listing; recheck for changes."
+            ],
+            [
+              "Research cutoff",
+              "November 6, 2026",
+              "The event had not yet reached the scheduled start at the time of the handoff."
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Scheduled start and end",
+            "paragraphs": [
+              "The project research records a Firstlight Studio Roblox virtual-event listing running from November 8 through November 22, 2026 UTC. Because the research cutoff is November 6, the event should be described as scheduled or upcoming, not active.",
+              "The evidence does not provide a confirmed activation hour. A countdown that guesses midnight in a player’s local time would therefore be misleading."
+            ]
+          },
+          {
+            "heading": "How to confirm the event is live",
+            "paragraphs": [
+              "On or after the scheduled start, confirm availability from the official Roblox experience and a current server before changing this page from preview language to live-event instructions.",
+              "If the listing changes or the content rolls out gradually, record the observed state and timestamp rather than backfilling the old preview with assumptions."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "announced-features",
+        "heading": "What Is Announced for the Thanksgiving Event?",
+        "table": {
+          "caption": "Announced Thanksgiving event features — preview status",
+          "columns": [
+            "Feature",
+            "Announcement status",
+            "Still unverified"
+          ],
+          "rows": [
+            [
+              "New Zones",
+              "Announced",
+              "Zone names, access requirements, and exact layouts."
+            ],
+            [
+              "Event Pass",
+              "Announced",
+              "Price, tiers, reward track, and purchase requirements."
+            ],
+            [
+              "Limited Time Egg",
+              "Announced",
+              "Egg name, appearance, rarity, odds, location, and hatch results."
+            ],
+            [
+              "QoL improvements",
+              "Announced",
+              "Specific changes until a patch note or live build confirms them."
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Limited-time egg",
+            "paragraphs": [
+              "The listing announces a Limited Time Egg, which is enough to make it a real event topic. The handoff does not establish the egg’s name, drop chance, exact location, rarity, or reward pool.",
+              "Those fields should stay blank rather than being inferred from unrelated rarity labels or other Roblox games."
+            ]
+          },
+          {
+            "heading": "Event Pass and new zones",
+            "paragraphs": [
+              "An Event Pass and New Zones are also named. The available evidence does not establish whether the pass is free or paid, how many tiers it has, or what each new zone requires.",
+              "Once live evidence is available, those details can be added as observed facts with a source date. Until then, the page remains a useful schedule-and-preview guide rather than a fake walkthrough."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "prepare",
+        "heading": "How to Prepare Before the Event",
+        "subsections": [
+          {
+            "heading": "Get familiar with eggs and progression",
+            "paragraphs": [
+              "The safest preparation advice comes from the confirmed base-game loop: understand how egg stealing, returning to the café, hatching, cash generation, Speed training, and later-area progression work.",
+              "This is preparation by learning existing mechanics, not a claim that a specific Speed value, currency amount, or rarity is required for the Thanksgiving content."
+            ]
+          },
+          {
+            "heading": "Use the official Roblox game to verify availability",
+            "paragraphs": [
+              "When the scheduled date arrives, use the official game page for Place ID 129852792970565 and verify the event in a current server. That is more reliable than treating an old preview article as proof of live content."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "How egg collecting works",
+            "slug": "eggs",
+            "description": "Review the confirmed egg loop before the event."
+          },
+          {
+            "label": "Rarity labels",
+            "slug": "rarities",
+            "description": "Understand the documented rarity names without assuming event-specific odds."
+          }
+        ]
+      },
+      {
+        "id": "after-launch",
+        "heading": "How This Page Changes After Launch",
+        "subsections": [
+          {
+            "heading": "Verify event is active",
+            "paragraphs": [
+              "The first post-launch update should record whether the event is actually present in current servers and the UTC time of verification. If the event is delayed, the page should say so instead of silently keeping the scheduled start as fact."
+            ]
+          },
+          {
+            "heading": "Record only observed tasks and real rewards",
+            "paragraphs": [
+              "Quest steps, reward items, event-pass tiers, egg details, and zone requirements should be added only when they are visible in the live game or an official patch note. Screenshots should match the exact Raise A Catboy experience, not a similarly named game."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "event-faq",
+        "heading": "Thanksgiving Event: Known vs. Unknown",
+        "bullets": [
+          "Known from the captured listing: scheduled November 8–22, 2026 UTC.",
+          "Known from the captured listing: New Zones, an Event Pass, a Limited Time Egg, and QoL improvements were announced.",
+          "Unknown at the November 6 review: exact activation hour and live-server status.",
+          "Unknown at the November 6 review: egg name, odds, location, and hatch results.",
+          "Unknown at the November 6 review: event-pass price, tiers, rewards, and quest requirements."
+        ]
+      },
+      {
+        "id": "preview-discipline",
+        "heading": "Why This Page Uses Preview Language Before November 8",
+        "paragraphs": [
+          "An event schedule is evidence of an intended window, not proof that every server has activated the content. Roblox experiences can change listings, delay rollout, or update at a time that is not obvious from the date alone.",
+          "For that reason, this page uses “scheduled,” “announced,” and “preview” for the November 8–22 information until a current server or first-party update confirms live availability. The wording should change only after verification, not simply because the calendar reached November 8.",
+          "The same rule applies to the Limited Time Egg and Event Pass. Their existence was announced, but names, prices, reward tiers, odds, locations, and quest steps should not be filled from assumptions or from another game’s event format."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When does Raise A Catboy Thanksgiving start?",
+        "answer": "The captured event listing schedules the start for November 8, 2026. The exact activation time was not confirmed in the project evidence."
+      },
+      {
+        "question": "When does the Thanksgiving event end?",
+        "answer": "The captured listing says November 22, 2026 UTC. Recheck the official experience or current event listing before treating that date as immutable."
+      },
+      {
+        "question": "What is coming in the Raise A Catboy Thanksgiving event?",
+        "answer": "The captured listing announces New Zones, an Event Pass, a Limited Time Egg, and quality-of-life improvements. Exact rewards, requirements, prices, and egg odds were not verified at the November 6 research cutoff."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "eggs",
+      "rarities",
+      "mutations"
+    ],
+    "lastReviewed": "2026-11-06",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/129852792970565",
+        "title": "Raise A Catboy on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://lootwiki.com/raise-a-catboy/updates/",
+        "title": "Event/update digest reviewed during project research",
+        "sourceType": "guide"
+      }
+    ]
+  }
+]

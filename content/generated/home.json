@@ -1,0 +1,193 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Raise A Catboy Roblox Guide: Eggs, Rarities & Events",
+  "description": "Explore Raise A Catboy on Roblox: how egg stealing and hatching work, rarity tiers, mutations, and the upcoming Thanksgiving event.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Independent Roblox player guide",
+    "heading": "Raise A Catboy Roblox Guide",
+    "lead": "Raise A Catboy is a Roblox experience by Firstlight Studio built around stealing eggs, escaping back to your café, hatching Catboys, earning cash, training Speed, and unlocking later areas.",
+    "supportingText": "This guide separates confirmed gameplay information from details that are still unverified. Last source review: November 6, 2026 (UTC context noted where relevant).",
+    "primaryLink": {
+      "label": "Start with the egg guide",
+      "slug": "eggs"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/129852792970565"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-is-raise-a-catboy",
+      "heading": "What Is Raise A Catboy on Roblox?",
+      "intro": "The correct experience is the Firstlight Studio Roblox game associated with Place ID 129852792970565. This site does not cover the similarly named Kat Boiz title.",
+      "subsections": [
+        {
+          "heading": "Who made this game?",
+          "paragraphs": [
+            "Current public records reviewed for this project identify Firstlight Studio as the developer. The safest way to avoid the similarly named game is to use the official Roblox experience URL tied to Place ID 129852792970565.",
+            "This is an independent fan guide. It does not claim official affiliation, and it does not embed an unauthorized playable Roblox frame."
+          ]
+        },
+        {
+          "heading": "What do players actually do?",
+          "paragraphs": [
+            "The confirmed high-level loop is straightforward: take an egg from Catboys, get it back to your café, hatch it into a Catboy, earn cash over time, train Speed on the cat wheel, and use progression to reach more difficult areas.",
+            "The accessible game description also connects later areas with rarer eggs and faster guards. This page stays at that confirmed level and does not invent controls, exact map locations, multipliers, hatch timers, or guard behavior."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "egg-to-catboy-loop",
+      "heading": "How Does the Egg-to-Catboy Loop Work?",
+      "intro": "Use this seven-step summary as the orientation layer; the dedicated egg page goes deeper without turning the homepage into a duplicate guide.",
+      "steps": [
+        {
+          "heading": "Find an egg opportunity",
+          "description": "The public gameplay description establishes egg stealing as the starting action. It does not provide a complete spawn map or official drop table."
+        },
+        {
+          "heading": "Take the egg",
+          "description": "Acquire an egg from Catboys. No control key or interaction timing is asserted here because that detail was not verified in the project evidence."
+        },
+        {
+          "heading": "Escape to the café",
+          "description": "Return safely to your café with the egg. The exact guard pathing and optimal route are not treated as confirmed facts."
+        },
+        {
+          "heading": "Hatch the egg",
+          "description": "Hatching produces a Catboy. Accessible sources do not establish a universal hatch timer or exact probability table."
+        },
+        {
+          "heading": "Earn cash",
+          "description": "Hatched Catboys contribute to the game economy over time. Exact income values are intentionally omitted until directly verified."
+        },
+        {
+          "heading": "Train Speed",
+          "description": "The official description connects Speed training to progression and the challenge of reaching later areas."
+        },
+        {
+          "heading": "Reach harder areas",
+          "description": "Later areas are associated with rarer eggs and faster guards, giving players a reason to keep improving progression."
+        }
+      ]
+    },
+    {
+      "id": "guides",
+      "heading": "Explore Raise A Catboy Guides",
+      "intro": "Each page answers one distinct player task so the site does not split one search intent across duplicate pages.",
+      "links": [
+        {
+          "label": "Raise A Catboy eggs",
+          "slug": "eggs",
+          "description": "How to steal, return, and hatch eggs, plus what is actually known about finding rarer eggs."
+        },
+        {
+          "label": "Catboy rarities",
+          "slug": "rarities",
+          "description": "The 11 documented rarity labels and a clear explanation of what the available evidence does not prove."
+        },
+        {
+          "label": "New mutations",
+          "slug": "mutations",
+          "description": "What the November Mutations + QoL announcement actually listed, without made-up mutation names or effects."
+        },
+        {
+          "label": "Thanksgiving event",
+          "slug": "thanksgiving-event",
+          "description": "Scheduled dates and announced features for the November 2026 event, clearly marked as a preview until live status is verified."
+        }
+      ]
+    },
+    {
+      "id": "updates-and-sources",
+      "heading": "Current Updates and Official Sources",
+      "subsections": [
+        {
+          "heading": "Mutation update: dated announcement",
+          "paragraphs": [
+            "A November 2–7, 2026 event listing was recorded in the project research as “MUTATIONS + QoL Update.” The accessible announcement digest names New Mutations, a New Egg System, New World Events, and Playtime Rewards.",
+            "Those labels confirm the scope of the announcement, not the names, effects, obtain methods, or probabilities of individual mutations. The dedicated mutation page therefore uses an announcement-first structure and marks effect-level details as unverified."
+          ]
+        },
+        {
+          "heading": "Thanksgiving: preview only until start verified",
+          "paragraphs": [
+            "The captured event listing schedules a Thanksgiving event from November 8 through November 22, 2026 UTC and announces New Zones, an Event Pass, a Limited Time Egg, and quality-of-life changes.",
+            "As of the November 6 research cutoff, the scheduled start was still in the future. This site must not say the event is live, assign an exact activation time, name an unverified egg, or publish unverified pass prices, quests, or rewards."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verification",
+      "heading": "How This Guide Handles Unverified Details",
+      "paragraphs": [
+        "Raise A Catboy is a fast-moving Roblox game, so an update announcement and an observed in-game fact are not the same thing. Pages on this site label dates and source context so a preview does not silently become a claim that content is already active.",
+        "When a detail is not established by the accessible evidence—such as exact egg drop chances, mutation effects, event rewards, or store prices—the page says that it is unverified rather than filling the gap with a plausible-sounding number. That keeps the guide useful without turning uncertainty into misinformation."
+      ]
+    },
+    {
+      "id": "player-decisions",
+      "heading": "What Should a New Player Focus On First?",
+      "intro": "The safest early priorities come directly from the confirmed loop rather than from unverified tier lists or optimization claims.",
+      "subsections": [
+        {
+          "heading": "Learn the return-to-café loop",
+          "paragraphs": [
+            "The first useful skill is understanding the relationship between taking an egg and getting it back to the café. The public description treats that return as part of the core loop, so a new player benefits from learning the objective before chasing rare labels or event content.",
+            "This guide does not prescribe a “best route” because the project evidence does not verify guard pathing, map geometry, server-specific behavior, or current movement values. The reliable priority is simply to understand the objective and then verify the live controls in the official experience."
+          ]
+        },
+        {
+          "heading": "Use cash and Speed as progression signals",
+          "paragraphs": [
+            "Hatched Catboys connect to earning cash over time, while the cat wheel trains Speed. The accessible description also says later areas have faster guards and rarer eggs. Together, those facts show why economy and Speed matter without requiring made-up thresholds.",
+            "When a guide later adds exact upgrade costs, Speed requirements, or income values, those numbers should come from a current in-game screen or first-party source and carry a review date. Until then, the overview stays useful by explaining the relationship rather than pretending to know the numbers."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "site-scope",
+      "heading": "What This Raise A Catboy Wiki Does Not Claim",
+      "paragraphs": [
+        "This site is designed as a focused player guide, not an official database. It does not claim developer affiliation, does not replace the Roblox experience page, and does not treat a third-party guide as stronger evidence than direct game or first-party information.",
+        "The site also avoids creating thin pages just because a phrase might be searchable. Codes, exact drop-rate charts, complete mutation lists, and event reward tables stay out of the public information architecture until the underlying mechanic can be verified well enough to answer a real player question.",
+        "That boundary keeps each approved page centered on one independent task: the homepage explains the game and routes players; Eggs explains acquisition and hatching; Rarities documents labels; Mutations tracks the announced system; Thanksgiving covers the scheduled seasonal event."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Where can I play Raise A Catboy?",
+      "answer": "Use the Roblox experience page matching Place ID 129852792970565. This guide links to that official experience and avoids the similarly named Kat Boiz game."
+    },
+    {
+      "question": "What do you do in Raise A Catboy?",
+      "answer": "The confirmed loop is to steal eggs, escape back to your café, hatch Catboys, earn cash, train Speed, and progress into later areas."
+    },
+    {
+      "question": "Does Raise A Catboy have codes?",
+      "answer": "The last reliable public-source check used for this project did not identify an official code. That does not prove there is no redemption interface, so this site does not publish a codes page without direct evidence."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/129852792970565",
+      "title": "Raise A Catboy on Roblox",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://lootwiki.com/raise-a-catboy/",
+      "title": "Raise A Catboy reference hub reviewed during project research",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-06"
+}
