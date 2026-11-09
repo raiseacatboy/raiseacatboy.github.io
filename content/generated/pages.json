@@ -831,5 +831,165 @@
         "sourceType": "guide"
       }
     ]
+  },
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Raise A Catboy Codes (November 2026): Any Working Codes?",
+    "description": "Check whether any Raise A Catboy codes are verified, where Firstlight Studio may announce them, and what is known about redemption in this Roblox game.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Roblox code status · Last checked November 9, 2026",
+      "heading": "Raise A Catboy Codes (November 2026)",
+      "lead": "No working codes independently verified as of November 9, 2026. We could not verify an in-game redemption option for Firstlight Studio’s Raise A Catboy (Roblox Place ID 129852792970565)."
+    },
+    "sections": [
+      {
+        "id": "current-codes",
+        "heading": "Current Codes Status",
+        "intro": "The official Roblox listing does not give a code or redemption instructions. RoStats archives a Firstlight Studio community post that mentions future codes; that post does not include a code to try. No codes were tested in-game for this check.",
+        "paragraphs": [
+          "We list an exact code only when a dated developer announcement ties it to this experience or a current in-game test shows it being accepted. A copied list or an announcement about future codes is not enough."
+        ]
+      },
+      {
+        "id": "redeem-option",
+        "heading": "Is There a Redeem Option?",
+        "intro": "We haven’t verified a code field or menu in this game. If Firstlight Studio releases a code, check the announcement for where to enter it and who can use it.",
+        "paragraphs": [
+          "In Roblox games that support codes, a typo, an expired offer, or a code from a different game can prevent redemption. Those are general possibilities; no error messages or code restrictions have been confirmed for Raise A Catboy."
+        ]
+      },
+      {
+        "id": "official-updates",
+        "heading": "Where to Check for Official Codes",
+        "intro": "Open the Roblox game listing or the Firstlight Studio community linked below. Check that a post names this game and includes an actual code before trying it.",
+        "paragraphs": [
+          "If a guide points to a similarly named game such as Raise A Catboy!, check the developer and the number in the Roblox URL. The game covered here is by Firstlight Studio and uses Place ID 129852792970565."
+        ],
+        "links": [
+          {
+            "label": "Raise A Catboy gameplay guide",
+            "slug": "",
+            "description": "See how eggs, Catboys and the café fit together."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Are there any working Raise A Catboy codes?",
+        "answer": "We did not find an independently verified working code in the November 9, 2026 public-source check. That does not rule out a future release."
+      },
+      {
+        "question": "How do I redeem Raise A Catboy codes on Roblox?",
+        "answer": "No redemption option was verified for this experience, so there are no confirmed steps to follow. Check the developer’s instructions if a code is announced."
+      },
+      {
+        "question": "Are codes for Raise A Catboy! the same?",
+        "answer": "Only use a code that is explicitly tied to the Firstlight Studio experience at Place ID 129852792970565."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "eggs"
+    ],
+    "lastReviewed": "2026-11-09",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/129852792970565/Raise-A-Catboy",
+        "title": "Raise A Catboy by Firstlight Studio on Roblox (Place ID 129852792970565)",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://www.roblox.com/communities/925282865/Firstlight-Studio",
+        "title": "Firstlight Studio community on Roblox",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://rostats.io/games/10770707307",
+        "title": "RoStats archive of studio announcements (secondary source)",
+        "sourceType": "guide"
+      }
+    ]
+  },
+  {
+    "enabled": false,
+    "slug": "index",
+    "pageType": "guide",
+    "navLabel": "Index",
+    "title": "Raise A Catboy Index: Collection and Rewards Guide",
+    "description": "See what is known about the Raise A Catboy collection Index, how eggs and rarity tiers relate to collecting, and which rewards are still unverified.",
+    "navVisible": false,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Collection guide · Last checked November 9, 2026",
+      "heading": "Raise A Catboy Index Guide",
+      "lead": "Index-related features have been reported; the exact in-game interface, completion rules and rewards remain unverified. Firstlight Studio’s Roblox listing confirms that hatching eggs adds Catboys to your collection."
+    },
+    "sections": [
+      {
+        "id": "what-index-means",
+        "heading": "What Players Mean by Index",
+        "intro": "A collection index usually answers which Catboys you have found and which are missing. The only reference we found for this game was an unofficial script listing that mentions an Index. It does not show the in-game interface or establish what the game records."
+      },
+      {
+        "id": "collection-progress",
+        "heading": "Collection Progress and Rarity Tiers",
+        "intro": "The official description says you bring eggs back to your café and hatch them to collect Catboys. It also says rarer finds are available in new areas.",
+        "subsections": [
+          {
+            "heading": "What hatching tells you",
+            "paragraphs": [
+              "Hatching confirms which Catboy you received. If the current game shows a collection screen, compare it before and after a hatch to see what changed. Whether duplicate Catboys or mutations count separately is unverified."
+            ]
+          },
+          {
+            "heading": "Index versus rarity",
+            "paragraphs": [
+              "An Index would describe what you have collected. A rarity tier describes an egg or Catboy’s classification. Knowing the rarity label cannot tell you whether an individual entry counts toward completion."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "index-rewards",
+        "heading": "Are Index Rewards Confirmed?",
+        "intro": "No Index rewards, milestones, or claim controls were verified on November 9, 2026. If your game shows a collection screen, read the requirement it displays before spending cash or chasing a specific hatch.",
+        "links": [
+          {
+            "label": "Raise A Catboy gameplay guide",
+            "slug": "",
+            "description": "See how eggs, Catboys and the café fit together."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you complete the Raise A Catboy Index?",
+        "answer": "We have not verified a checklist or completion requirements. Hatching collects Catboys; what the Index counts still needs confirmation in the current game."
+      },
+      {
+        "question": "Does every rarity count as a separate Index entry?",
+        "answer": "That has not been verified. The rarity tier list cannot tell you which individual Catboys or variants the Index records."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "eggs",
+      "rarities"
+    ],
+    "lastReviewed": "2026-11-09",
+    "sources": [
+      {
+        "url": "https://www.roblox.com/games/129852792970565/Raise-A-Catboy",
+        "title": "Raise A Catboy by Firstlight Studio on Roblox (Place ID 129852792970565)",
+        "sourceType": "official"
+      }
+    ]
   }
 ]
