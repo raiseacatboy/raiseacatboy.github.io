@@ -917,65 +917,91 @@
     ]
   },
   {
-    "enabled": false,
+    "enabled": true,
     "slug": "index",
     "pageType": "guide",
     "navLabel": "Index",
     "title": "Raise A Catboy Index: Collection and Rewards Guide",
-    "description": "See what is known about the Raise A Catboy collection Index, how eggs and rarity tiers relate to collecting, and which rewards are still unverified.",
-    "navVisible": false,
+    "description": "Check Catboy collection progress after hatching, see how the Raise A Catboy Index differs from rarity tiers, and learn what is verified about rewards.",
+    "navVisible": true,
     "parentSlug": null,
     "hero": {
       "eyebrow": "Collection guide · Last checked November 9, 2026",
       "heading": "Raise A Catboy Index Guide",
-      "lead": "Index-related features have been reported; the exact in-game interface, completion rules and rewards remain unverified. Firstlight Studio’s Roblox listing confirms that hatching eggs adds Catboys to your collection."
+      "lead": "The Raise A Catboy Index is a reported way to track your collection. Firstlight Studio confirms that hatching eggs lets you collect Catboys. The Index screen, what counts toward completion, and any rewards are still unverified. If your game shows a collection tracker, compare it before and after one hatch to see what it records."
     },
     "sections": [
       {
         "id": "what-index-means",
-        "heading": "What Players Mean by Index",
-        "intro": "A collection index usually answers which Catboys you have found and which are missing. The only reference we found for this game was an unofficial script listing that mentions an Index. It does not show the in-game interface or establish what the game records."
+        "heading": "What Is the Raise A Catboy Index?",
+        "intro": "Players looking for an Index want to know which Catboys they’ve discovered and what is still missing. The official Roblox listing describes collecting Catboys by hatching eggs at your café. It does not document a collection screen or what that screen counts.",
+        "paragraphs": [
+          "An unofficial script listing uses the phrase “Auto Claim Index.” That is a third-party clue about the term, not a recording of the game’s menus or evidence that a reward can be claimed."
+        ]
       },
       {
         "id": "collection-progress",
-        "heading": "Collection Progress and Rarity Tiers",
-        "intro": "The official description says you bring eggs back to your café and hatch them to collect Catboys. It also says rarer finds are available in new areas.",
+        "heading": "How to Check Collection Progress",
+        "intro": "Open Firstlight Studio’s experience at Roblox Place ID 129852792970565. Use the menus visible in your session. If a screen lists discovered Catboys, you can check it with an egg you already have.",
         "subsections": [
           {
-            "heading": "What hatching tells you",
+            "heading": "Record what you see before hatching",
             "paragraphs": [
-              "Hatching confirms which Catboy you received. If the current game shows a collection screen, compare it before and after a hatch to see what changed. Whether duplicate Catboys or mutations count separately is unverified."
+              "If a collection screen is available, note the entries and any progress number it displays. If you only see the Catboys currently at your café, keep that as a separate observation. It may answer who you have now without telling you who you’ve discovered over time."
             ]
           },
           {
-            "heading": "Index versus rarity",
+            "heading": "Compare after a single hatch",
             "paragraphs": [
-              "An Index would describe what you have collected. A rarity tier describes an egg or Catboy’s classification. Knowing the rarity label cannot tell you whether an individual entry counts toward completion."
+              "Record the Catboy’s displayed name and any variant label. Reopen the same screen and compare the entry and count. A change after one hatch shows what happened for that result. To check whether duplicates or variants behave differently, repeat the comparison when you happen to hatch one."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eggs-and-rarities",
+        "heading": "Eggs, Catboys and Rarity Tiers",
+        "subsections": [
+          {
+            "heading": "Use hatches to track discoveries",
+            "paragraphs": [
+              "The game description confirms the loop of bringing eggs back to the café and hatching them to collect Catboys. If you can’t find a collection view, keep a short list of the Catboys you hatch with their names and any visible variant labels. That gives you a record of your own discoveries while the game’s tracking rules are unclear."
+            ]
+          },
+          {
+            "heading": "Index vs. Rarities",
+            "paragraphs": [
+              "An Index would track discoveries. A rarity tier classifies an egg or Catboy. Use the rarity guide to interpret the label on a hatch result. To track individual discoveries, record the displayed Catboy name."
             ]
           }
         ]
       },
       {
         "id": "index-rewards",
-        "heading": "Are Index Rewards Confirmed?",
-        "intro": "No Index rewards, milestones, or claim controls were verified on November 9, 2026. If your game shows a collection screen, read the requirement it displays before spending cash or chasing a specific hatch.",
-        "links": [
-          {
-            "label": "Raise A Catboy gameplay guide",
-            "slug": "",
-            "description": "See how eggs, Catboys and the café fit together."
-          }
+        "heading": "Are There Index Rewards?",
+        "intro": "As of November 9, 2026, no first-party source we checked documents Index rewards, claim conditions, multipliers, drop rates, or a complete collection list.",
+        "paragraphs": [
+          "If your collection screen displays a reward or milestone, read the requirement and the reward shown next to it. Check whether the game offers a claim control for that milestone. If a new entry appears after a hatch, look for a separate reward confirmation before counting a payout.",
+          "For updates, start with the official Roblox experience and the Firstlight Studio community linked below. Look for a dated note naming this game and compare it with what you see in your current session."
         ]
       }
     ],
     "faq": [
       {
-        "question": "How do you complete the Raise A Catboy Index?",
-        "answer": "We have not verified a checklist or completion requirements. Hatching collects Catboys; what the Index counts still needs confirmation in the current game."
+        "question": "Where do I check my Catboy collection?",
+        "answer": "Look through the menus visible in your own session for a screen that lists discovered Catboys. There is no verified menu path to share. If you only see your current café lineup, use it to identify the Catboys you have and keep a separate hatch log."
       },
       {
-        "question": "Does every rarity count as a separate Index entry?",
-        "answer": "That has not been verified. The rarity tier list cannot tell you which individual Catboys or variants the Index records."
+        "question": "Does hatching a duplicate advance the Index?",
+        "answer": "There is no confirmed duplicate rule. If a tracker is visible, compare the same count and entry before and after a repeat hatch. Check the variant label before treating two results as identical."
+      },
+      {
+        "question": "How can I tell whether a milestone gives a reward?",
+        "answer": "Look for a reward description and requirement attached to that specific milestone in the game. If all you see is a new collection entry, record the entry and leave the reward question open."
+      },
+      {
+        "question": "Is there a complete Raise A Catboy Index list?",
+        "answer": "We found no verified complete list. If your game shows missing entries, use those as your checklist. If it doesn’t, use names from your hatch results rather than treating the rarity tiers as a list of Catboys."
       }
     ],
     "screenshots": [],
@@ -988,6 +1014,11 @@
       {
         "url": "https://www.roblox.com/games/129852792970565/Raise-A-Catboy",
         "title": "Raise A Catboy by Firstlight Studio on Roblox (Place ID 129852792970565)",
+        "sourceType": "official"
+      },
+      {
+        "url": "https://www.roblox.com/communities/925282865/Firstlight-Studio",
+        "title": "Firstlight Studio’s Roblox community for developer updates",
         "sourceType": "official"
       }
     ]
