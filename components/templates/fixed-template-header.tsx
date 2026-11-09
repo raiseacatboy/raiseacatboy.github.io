@@ -7,7 +7,7 @@ import { siteConfig } from "@/config/site";
 import type { InternalLink } from "@/config/types";
 import { assetPath, routePath } from "@/lib/urls";
 
-const primarySlugs = new Set(["eggs", "rarities", "mutations", "codes"]);
+const primarySlugs = new Set(["eggs", "rarities", "mutations", "codes", "index"]);
 
 export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
   const pathname = usePathname() || "/";
