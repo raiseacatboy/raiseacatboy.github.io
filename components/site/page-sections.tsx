@@ -56,6 +56,14 @@ export function PageSections({ sections }: { sections: PageSection[] }) {
 
           {section.table ? <DataTable table={section.table} /> : null}
 
+          {section.externalLinks?.length ? (
+            <ul className="mt-4 space-y-2 text-sm">
+              {section.externalLinks.map((link) => (
+                <li key={link.url}><a className="underline" href={link.url}>{link.label}</a></li>
+              ))}
+            </ul>
+          ) : null}
+
           {section.links?.length ? (
             <div className="mt-7 grid gap-4 sm:grid-cols-2">
               {section.links.map((link) => (

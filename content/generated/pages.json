@@ -1022,5 +1022,359 @@
         "sourceType": "official"
       }
     ]
+  },
+  {
+    "enabled": true,
+    "slug": "catboys",
+    "pageType": "database",
+    "navLabel": "Catboys",
+    "title": "Raise A Catboy All Catboys List & Collection Guide",
+    "description": "Explore the Raise A Catboy Catboys list, see verified character details, and learn how each confirmed Catboy connects to eggs, rarity, and collection progress.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Last updated November 17, 2026 (UTC+8)",
+      "heading": "All Catboys in Raise A Catboy",
+      "lead": "Browse 18 Catboys recorded in the November 4–6 Raise A Catboy Index and gameplay captures, including Tanjiro (Common), Hawk (Rare), Bachira (Epic) and Sakuta (Legendary)."
+    },
+    "sections": [
+      {
+        "id": "confirmed-catboys",
+        "heading": "All Confirmed Catboys in Raise A Catboy",
+        "table": {
+          "caption": "Catboy directory · November 4–6, 2026 captures",
+          "columns": [
+            "Catboy",
+            "Rarity",
+            "Cash/s",
+            "Record"
+          ],
+          "rows": [
+            [
+              "Chihiro",
+              "Common",
+              "$1/s",
+              "Index"
+            ],
+            [
+              "Luffy",
+              "Common",
+              "$2/s",
+              "Index"
+            ],
+            [
+              "Maid",
+              "Common",
+              "$3/s",
+              "Index"
+            ],
+            [
+              "Sasuke",
+              "Common",
+              "$4/s",
+              "Index"
+            ],
+            [
+              "Tanjiro",
+              "Common",
+              "$5/s",
+              "Index + hatch"
+            ],
+            [
+              "Aizawa",
+              "Rare",
+              "—",
+              "Index"
+            ],
+            [
+              "Hawk",
+              "Rare",
+              "$40/s",
+              "Index + nameplate"
+            ],
+            [
+              "Sanji",
+              "Rare",
+              "—",
+              "Index"
+            ],
+            [
+              "Skater",
+              "Rare",
+              "—",
+              "Index"
+            ],
+            [
+              "Spike",
+              "Rare",
+              "—",
+              "Index"
+            ],
+            [
+              "Stark",
+              "Rare",
+              "—",
+              "Index"
+            ],
+            [
+              "Bachira",
+              "Epic",
+              "—",
+              "Index"
+            ],
+            [
+              "Dabi",
+              "Epic",
+              "—",
+              "Index"
+            ],
+            [
+              "Hakari",
+              "Epic",
+              "—",
+              "Index"
+            ],
+            [
+              "Najimi",
+              "Epic",
+              "—",
+              "Index"
+            ],
+            [
+              "Will",
+              "Epic",
+              "—",
+              "Index"
+            ],
+            [
+              "Zoro",
+              "Epic",
+              "—",
+              "Index"
+            ],
+            [
+              "Sakuta",
+              "Legendary",
+              "$8K/s",
+              "Index"
+            ]
+          ]
+        },
+        "externalLinks": [
+          {
+            "label": "Common Catboy Index captures",
+            "url": "https://raiseacatboy.wiki/catboys/common-catboys"
+          },
+          {
+            "label": "Rare Catboy Index captures",
+            "url": "https://raiseacatboy.wiki/catboys/rare-catboys"
+          },
+          {
+            "label": "Epic Catboy Index captures",
+            "url": "https://raiseacatboy.wiki/catboys/epic-catboys"
+          },
+          {
+            "label": "Sakuta’s Legendary Index panel",
+            "url": "https://raiseacatboy.wiki/catboys/legendary-catboys"
+          },
+          {
+            "label": "November 6 gameplay notes for Tanjiro and Hawk",
+            "url": "https://raiseacatboyroblox.wiki/catboys/"
+          }
+        ]
+      },
+      {
+        "id": "collect-catboys",
+        "heading": "How to Collect Catboys",
+        "intro": "Take an egg, bring it back to your café and hatch it to collect a Catboy. One recorded Common Egg hatch produced Tanjiro. Check the hatch result for the Catboy’s name and rarity.",
+        "externalLinks": [
+          {
+            "label": "Play Firstlight Studio’s Raise A Catboy on Roblox",
+            "url": "https://www.roblox.com/games/129852792970565/Raise-A-Catboy"
+          }
+        ],
+        "links": [
+          {
+            "label": "Eggs and hatching guide",
+            "slug": "eggs",
+            "description": "See how to bring an egg back to your café and hatch it."
+          }
+        ]
+      },
+      {
+        "id": "rarities-and-progress",
+        "heading": "Catboy Rarities and Collection Progress",
+        "intro": "Use the name to identify a specific Catboy and the rarity label to find its tier. For your own discoveries, open the in-game Index and compare the entry there with the name on your hatch result.",
+        "paragraphs": [
+          "Cash per second in the table comes from the captured detail panel, hatch message or nameplate. A dash means the amount is unavailable for that entry."
+        ],
+        "links": [
+          {
+            "label": "Catboy rarity tiers",
+            "slug": "rarities",
+            "description": "Look up the labels used to group eggs and Catboys."
+          },
+          {
+            "label": "Index and collection progress",
+            "slug": "index",
+            "description": "See what to look for when checking your discoveries."
+          }
+        ]
+      },
+      {
+        "id": "recent-catboys",
+        "heading": "New Catboys and Recent Additions",
+        "intro": "Roblox’s product catalog added Maid 2.0 Eggs on November 14, 2026. Each egg is listed as hatching one of seven new maid Catboys. Open its shop entry for the odds.",
+        "externalLinks": [
+          {
+            "label": "Raise A Catboy developer products on Roblox",
+            "url": "https://apis.roblox.com/developer-products/v2/universes/10770707307/developerproducts?limit=100"
+          }
+        ],
+        "links": [
+          {
+            "label": "Big Update and event dates",
+            "slug": "updates",
+            "description": "See the November 14 announcement and the shop changes recorded that day."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where can I find the Catboys list?",
+        "answer": "Use the directory above to look up a Catboy by name and rarity. Open Index in the game to check your own collection."
+      },
+      {
+        "question": "Does a rarity label tell me the hatch chance?",
+        "answer": "A rarity label identifies a tier. For odds, look for the numbers on the specific egg’s shop entry when they are displayed."
+      },
+      {
+        "question": "How do eggs relate to collecting Catboys?",
+        "answer": "Hatching gives you a Catboy. If the hatch result is new to you, check the name against your collection in the Index."
+      }
+    ],
+    "lastReviewed": "2026-11-17"
+  },
+  {
+    "enabled": true,
+    "slug": "updates",
+    "pageType": "updates",
+    "navLabel": "Updates",
+    "title": "Raise A Catboy Updates: Latest Changes & Events",
+    "description": "Follow Raise A Catboy updates, including verified changes, event announcements, and links to official sources. See what changed and when.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Last updated November 17, 2026 (UTC+8)",
+      "heading": "Raise A Catboy Updates and Patch Notes",
+      "lead": "Firstlight Studio’s November 14 Big Update announced new zones, café improvements and more Catboys. Roblox’s shop records for the same day show Maid 2.0 Eggs in three pack sizes and new café treadmills."
+    },
+    "sections": [
+      {
+        "id": "latest-update",
+        "heading": "Latest Raise A Catboy Update",
+        "intro": "Big Update · November 14, 2026 at 20:05 UTC. The Roblox event window ran through November 16 at 04:54 UTC.",
+        "bullets": [
+          "Maid 2.0 Eggs were listed in packs of one, three and ten. The item description gives a 30-second hatch time and a pool of seven new maid Catboys.",
+          "The catalog added speed-focused café treadmills, including Paw Runner and Whisker Wheel, plus Royal Parfaits and a timed Bond Rush item.",
+          "The announcement listed new zones and café changes. Its text gives no zone names or unlock requirements."
+        ],
+        "externalLinks": [
+          {
+            "label": "Big Update announcement on Roblox",
+            "url": "https://www.roblox.com/events/4593487033097388814"
+          },
+          {
+            "label": "Raise A Catboy developer products on Roblox",
+            "url": "https://apis.roblox.com/developer-products/v2/universes/10770707307/developerproducts?limit=100"
+          }
+        ]
+      },
+      {
+        "id": "november-history",
+        "heading": "November 2026 Update History",
+        "intro": "Dates below use UTC.",
+        "subsections": [
+          {
+            "heading": "November 14 Big Update",
+            "paragraphs": [
+              "Firstlight Studio’s event listing announced new areas, café improvements and a pack with more Catboys. The event listing’s window ended November 16."
+            ]
+          },
+          {
+            "heading": "November 15 CATBOY ABUSE!!!",
+            "paragraphs": [
+              "Roblox categorized it as an item-drop event. Its scheduled window was November 15 at 20:00 through November 16 at 22:25. The listing gives no item names."
+            ]
+          }
+        ],
+        "externalLinks": [
+          {
+            "label": "Official Roblox event record for the November 15 item drop",
+            "url": "https://apis.roblox.com/virtual-events/v1/universes/10770707307/virtual-events?limit=20"
+          }
+        ]
+      },
+      {
+        "id": "player-changes",
+        "heading": "What Changed for Players?",
+        "intro": "Looking for the new maid Catboys? Find Maid 2.0 Egg in the shop and open its details for the hatch odds before picking a pack. If you’re comparing café equipment, the new treadmill listings describe a speed-per-step benefit.",
+        "links": [
+          {
+            "label": "Catboy character directory",
+            "slug": "catboys",
+            "description": "Compare named Catboys from the captured Index and see where Maid 2.0 fits in."
+          }
+        ]
+      },
+      {
+        "id": "event-status",
+        "heading": "Upcoming Events vs. Live Changes",
+        "intro": "Roblox event dates show the scheduled window for an event. For time-sensitive drops, check that window and the game itself. For packs and equipment, check the current shop listing, since items may follow a different schedule.",
+        "links": [
+          {
+            "label": "Thanksgiving event preview",
+            "slug": "thanksgiving-event",
+            "description": "See what the earlier seasonal announcement covered."
+          },
+          {
+            "label": "Mutations update guide",
+            "slug": "mutations",
+            "description": "Read about the earlier mutation announcement and the mechanics it described."
+          }
+        ]
+      },
+      {
+        "id": "official-patch-notes",
+        "heading": "Where to Find Official Raise A Catboy Update Notes",
+        "intro": "Open Firstlight Studio’s Roblox community for developer posts or check the game’s event listings for dated announcements.",
+        "externalLinks": [
+          {
+            "label": "Firstlight Studio community on Roblox",
+            "url": "https://www.roblox.com/communities/925282865/Firstlight-Studio"
+          },
+          {
+            "label": "Official Raise A Catboy experience",
+            "url": "https://www.roblox.com/games/129852792970565/Raise-A-Catboy"
+          },
+          {
+            "label": "Raise A Catboy event records on Roblox",
+            "url": "https://apis.roblox.com/virtual-events/v1/universes/10770707307/virtual-events?limit=20"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When did the Big Update start?",
+        "answer": "The official event window started November 14, 2026 at 20:05 UTC and ended November 16 at 04:54 UTC."
+      },
+      {
+        "question": "Where can I see the Maid 2.0 Egg odds?",
+        "answer": "The Roblox product description directs players to the in-game shop for exact odds. Open the Maid 2.0 Egg entry for the current figures."
+      }
+    ],
+    "lastReviewed": "2026-11-17"
   }
 ]

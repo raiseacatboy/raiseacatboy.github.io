@@ -152,6 +152,7 @@ export interface PageSection {
   bullets?: string[];
   subsections?: Subsection[];
   links?: InternalLink[];
+  externalLinks?: Array<{ label: string; url: string }>;
   steps?: Array<{ heading: string; description: string }>;
   table?: DataTable;
 }
