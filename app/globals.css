@@ -657,6 +657,9 @@ body[data-fixed-template="soft-guide"] .yorich-template-more-panel.is-open {
 body[data-fixed-template="soft-guide"] .yorich-template-more-panel .yorich-template-nav-item {
   justify-content: flex-start;
 }
+@media (min-width: 841px) and (max-width: 879px) {
+  body[data-fixed-template="soft-guide"] .yorich-template-nav-item { padding-inline: 10px; }
+}
 @media (max-width: 840px) {
   body[data-fixed-template="soft-guide"] .yorich-template-header-inner {
     position: relative;
