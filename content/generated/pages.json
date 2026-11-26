@@ -1447,5 +1447,370 @@
       }
     ],
     "lastReviewed": "2026-11-17"
+  },
+  {
+    "enabled": true,
+    "slug": "items",
+    "pageType": "database",
+    "navLabel": "Items",
+    "title": "Raise A Catboy Items Guide: Hatch, Gear & Shop",
+    "description": "Explore Raise A Catboy items, Hatch All, café treadmills and shop entries. Compare their listed uses and learn where to check current purchase details.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Reviewed November 26, 2026",
+      "heading": "Raise A Catboy Items and Shop Guide",
+      "lead": "Raise A Catboy items include Hatch All, café treadmills and care products. This guide separates Roblox Developer Products from Game Passes and the Cat Wheel used in play, so you can match a shop entry to your goal before purchasing."
+    },
+    "sections": [
+      {
+        "id": "items-at-a-glance",
+        "heading": "Raise A Catboy Items at a Glance",
+        "intro": "These entries come from Firstlight Studio’s Roblox catalog, checked November 26, 2026. Developer Product is the catalog type; it does not by itself tell you whether an effect lasts forever. The descriptions below explain what each listing actually offers.",
+        "table": {
+          "caption": "Shop and gameplay reference · checked November 26, 2026 · sources linked below",
+          "columns": [
+            "Item or entry",
+            "Category",
+            "Listed use",
+            "Where to check"
+          ],
+          "rows": [
+            [
+              "Hatch All",
+              "Developer Product",
+              "Instant hatching of all eggs.",
+              "Current egg and purchase details"
+            ],
+            [
+              "2x Egg Hatch",
+              "Game Pass",
+              "Listed under this name; no description returned.",
+              "Pass details and current game shop"
+            ],
+            [
+              "More Incubators",
+              "Developer Product",
+              "Five additional eggs placed at once; described as permanent.",
+              "Current capacity offer"
+            ],
+            [
+              "Paw Runner / Whisker Wheel / Turbo Tread",
+              "Developer Products · café treadmills",
+              "More Speed per step; no individual rate specified.",
+              "Equipment description in your session"
+            ],
+            [
+              "Comet Belt / Nebula Runner / Starlight Tread / Galaxy Wheel",
+              "Developer Products · café treadmills",
+              "More Speed per step; no individual rate specified.",
+              "Equipment description in your session"
+            ],
+            [
+              "5 Royal Parfaits",
+              "Developer Product · care",
+              "Five parfaits; bond gain per parfait, doubled for a favourite.",
+              "Care item description"
+            ],
+            [
+              "Bond Rush",
+              "Developer Product · timed care boost",
+              "Double care bond gain for 30 minutes.",
+              "Duration and purchase details"
+            ],
+            [
+              "Cat Wheel",
+              "Gameplay training equipment",
+              "Run on it to gain Speed.",
+              "Official game description and live game"
+            ]
+          ]
+        },
+        "externalLinks": [
+          {
+            "label": "Roblox Developer Product descriptions",
+            "url": "https://apis.roblox.com/developer-products/v2/universes/10770707307/developerproducts?limit=100"
+          },
+          {
+            "label": "Roblox Game Pass catalog",
+            "url": "https://apis.roblox.com/game-passes/v1/universes/10770707307/game-passes?passView=Full&pageSize=100"
+          },
+          {
+            "label": "Official Raise A Catboy gameplay description",
+            "url": "https://www.roblox.com/games/129852792970565/Raise-A-Catboy"
+          }
+        ]
+      },
+      {
+        "id": "hatching-shortcuts",
+        "heading": "Hatching Items and Shortcuts",
+        "subsections": [
+          {
+            "heading": "Hatch All: instant hatching, not a permanent pass",
+            "paragraphs": [
+              "Hatch All is returned as a Developer Product, with a description saying it hatches all eggs instantly. Read the purchase prompt for the eggs covered in your current session. The description does not promise that every future egg will hatch instantly after one purchase.",
+              "If you searched for Instant Hatch, the matching named shortcut in this catalog is Hatch All. A separate product named Instant Hatch was not returned in the November 26 catalog. Match the actual listing name before spending Robux."
+            ]
+          },
+          {
+            "heading": "2x Egg Hatch and More Incubators",
+            "paragraphs": [
+              "2x Egg Hatch appears in the separate Game Pass catalog. Its returned description is empty, so the name alone is not enough to calculate a timer or explain how it combines with Hatch All. Read its current offer in the game.",
+              "More Incubators is a Developer Product whose description promises space to place five more eggs at once, permanently. It addresses capacity rather than claiming to finish a hatch immediately."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Egg collection and hatching",
+            "slug": "eggs",
+            "description": "Follow the normal egg loop before comparing optional shortcuts."
+          }
+        ]
+      },
+      {
+        "id": "cafe-gear",
+        "heading": "Café Gear and Speed-Related Items",
+        "paragraphs": [
+          "The seven treadmill names in the table all have the same broad catalog description: a faster treadmill for your café with more Speed per step. Whisker Wheel and Galaxy Wheel are treadmill product names; the official gameplay description calls the training activity the Cat Wheel.",
+          "The catalog does not publish a per-model training rate. Choose by the equipment details shown in your game rather than assuming the order of names proves an upgrade ranking. For a café care goal, Royal Parfaits and Bond Rush concern bond instead of promising movement Speed."
+        ],
+        "links": [
+          {
+            "label": "Speed training and the Cat Wheel",
+            "slug": "speed-and-cat-wheel",
+            "description": "See how training, gear and area progress fit together."
+          }
+        ]
+      },
+      {
+        "id": "check-shop",
+        "heading": "How to Check the Current Shop and Item Details",
+        "steps": [
+          {
+            "heading": "Join the correct experience",
+            "description": "Open Raise A Catboy by Firstlight Studio using the official Roblox link. Match the developer name before comparing any purchase."
+          },
+          {
+            "heading": "Read the actual offer",
+            "description": "In the game’s shop, read the item name, effect, quantity and any duration. Match it to the category above; review the current Roblox purchase prompt for price."
+          },
+          {
+            "heading": "Check the scope before buying",
+            "description": "For hatching, check which eggs the offer covers. For equipment, look for the stated training benefit. A catalog listing is not a guarantee that the offer appears in every session."
+          }
+        ],
+        "links": [
+          {
+            "label": "Game entry and overview",
+            "slug": "",
+            "description": "Use the homepage to return to the main game guide."
+          }
+        ]
+      },
+      {
+        "id": "choose-item",
+        "heading": "Which Item Should You Check First?",
+        "paragraphs": [
+          "For eggs already waiting to hatch, compare Hatch All with the actual timers you see. If your concern is placing more eggs, inspect More Incubators instead. A capacity upgrade and an immediate hatch shortcut solve different problems.",
+          "For training, check a treadmill’s current description alongside your Speed goal. For café care, check whether you want individual bond items or a timed care boost. These are goal comparisons, not a claim that any purchase is required or offers the best value.",
+          "Items and Catboys are different subjects: equipment and shortcuts support play, while Catboys are the characters you collect. Use the character directory to identify a hatch result."
+        ],
+        "links": [
+          {
+            "label": "Look up a Catboy",
+            "slug": "catboys",
+            "description": "Find recorded character names and rarities."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Instant Hatch a Game Pass or a consumable?",
+        "answer": "The catalog returns Hatch All as a Developer Product, while 2x Egg Hatch is a separate Game Pass. No separate Instant Hatch listing was returned on November 26. Hatch All’s short description does not promise a permanent entitlement."
+      },
+      {
+        "question": "Where can I check currently available items?",
+        "answer": "Join Firstlight Studio’s official Raise A Catboy experience, inspect the current shop and read the purchase prompt. Roblox’s public catalogs help identify entries, but your session shows the offer you can actually use."
+      },
+      {
+        "question": "Do all items cost Robux?",
+        "answer": "The shop products here are Roblox purchase entries. The official description also describes Cat Wheel training as gameplay without specifying a purchase requirement. This is not a complete inventory of free and paid items."
+      },
+      {
+        "question": "Are items and Catboys the same thing?",
+        "answer": "No. Catboys are collected characters; this page covers equipment, care products and shop shortcuts. Some shop entries supply eggs or characters, so read the description for the particular offer."
+      }
+    ],
+    "lastReviewed": "2026-11-26"
+  },
+  {
+    "enabled": true,
+    "slug": "speed-and-cat-wheel",
+    "pageType": "guide",
+    "navLabel": "Speed Guide",
+    "title": "Raise A Catboy Speed & Cat Wheel Guide",
+    "description": "Learn what Speed does in Raise A Catboy, how Cat Wheel training fits the gameplay loop, and how to check progress and area requirements in game.",
+    "navVisible": true,
+    "parentSlug": null,
+    "hero": {
+      "eyebrow": "Reviewed November 26, 2026",
+      "heading": "Raise A Catboy Speed and Cat Wheel Guide",
+      "lead": "Raise A Catboy Speed grows when you run on your Cat Wheel, according to Firstlight Studio’s game description. The same description introduces new areas with faster guards. Start with wheel training, then compare your progress with the requirements shown in your game."
+    },
+    "sections": [
+      {
+        "id": "what-speed-does",
+        "heading": "What Does Speed Do in Raise A Catboy?",
+        "paragraphs": [
+          "Speed belongs to the movement and progression side of Raise A Catboy. The official game loop pairs wheel training with exploring further areas, while egg collection requires escaping back to your café. That makes training relevant when planning another trip.",
+          "The shop also distinguishes immediate Speed additions from equipment that increases Speed gained per step. Those are different ways of changing progress: a one-off amount is not the same measurement as a training rate."
+        ],
+        "table": {
+          "caption": "Speed concepts from the official game and product descriptions · November 26, 2026",
+          "columns": [
+            "Concept",
+            "What the source says",
+            "How to use that information"
+          ],
+          "rows": [
+            [
+              "Cat Wheel training",
+              "Running on the wheel gains Speed.",
+              "Use the wheel activity as the starting point for training."
+            ],
+            [
+              "Café treadmill gear",
+              "The product descriptions promise more Speed per step.",
+              "Read the individual offer before comparing training equipment."
+            ],
+            [
+              "Speed gate offers",
+              "Descriptions connect a Speed addition with opening the next gate.",
+              "Check your own gate; a product amount is not a universal area requirement."
+            ],
+            [
+              "Faster guards",
+              "New areas have faster guards.",
+              "Plan training around the area you are trying to explore."
+            ]
+          ]
+        },
+        "externalLinks": [
+          {
+            "label": "Firstlight Studio’s gameplay description",
+            "url": "https://www.roblox.com/games/129852792970565/Raise-A-Catboy"
+          },
+          {
+            "label": "Roblox Speed and equipment product descriptions",
+            "url": "https://apis.roblox.com/developer-products/v2/universes/10770707307/developerproducts?limit=100"
+          }
+        ]
+      },
+      {
+        "id": "train-with-wheel",
+        "heading": "How to Train Speed with Cat Wheel",
+        "intro": "The confirmed action is running on your Cat Wheel. Use the live game’s prompts for the interaction: the public description supplies the activity, rather than a keyboard key or a map location.",
+        "steps": [
+          {
+            "heading": "Enter Firstlight Studio’s game",
+            "description": "Open the official experience. In your session, look for your Cat Wheel and read the training prompts that are displayed."
+          },
+          {
+            "heading": "Run on the Cat Wheel",
+            "description": "Follow the current interaction prompt to take part in the wheel activity. Running on the wheel is the action the developer describes for gaining Speed."
+          },
+          {
+            "heading": "Compare progress with your next goal",
+            "description": "Read any Speed feedback the game displays, then compare it with your intended area’s current requirements. Use those readings to decide whether to train again."
+          }
+        ],
+        "links": [
+          {
+            "label": "Open the game overview",
+            "slug": "",
+            "description": "Return to the main guide and official game entry."
+          }
+        ]
+      },
+      {
+        "id": "when-to-train",
+        "heading": "When Should You Train Speed?",
+        "paragraphs": [
+          "Consider a training session before trying a harder area, especially if returning with an egg has been difficult. This is a practical suggestion based on the combination of wheel training and faster guards in the official description, rather than a measured escape guarantee.",
+          "When your goal is collecting eggs, separate two tasks: improving your movement preparation and completing the return to your café. Speed training does not by itself establish an egg’s rarity, hatch odds or income."
+        ],
+        "links": [
+          {
+            "label": "Bringing eggs back and hatching",
+            "slug": "eggs",
+            "description": "Use the egg guide for the collection loop rather than an equipment list."
+          }
+        ]
+      },
+      {
+        "id": "wheel-vs-treadmills",
+        "heading": "Cat Wheel vs. Café Treadmills and Other Gear",
+        "paragraphs": [
+          "Cat Wheel is the name used for the training activity in the official description. The Roblox shop separately lists seven café treadmill products, including Paw Runner, Whisker Wheel and Galaxy Wheel. Their descriptions promise more Speed per step, but do not explain the installation interface or give model-by-model rates.",
+          "Treat a treadmill offer as a piece of shop equipment to inspect, rather than assuming every wheel name refers to the same object or bonus. The catalog also contains Speed-gain trails and immediate Speed additions. Their purchase descriptions address different effects, so compare the wording and any duration before choosing."
+        ],
+        "links": [
+          {
+            "label": "Items and shop categories",
+            "slug": "items",
+            "description": "Compare hatching shortcuts, treadmill names and care products."
+          }
+        ]
+      },
+      {
+        "id": "zone-progress",
+        "heading": "Speed and New Zone Progression",
+        "paragraphs": [
+          "The official description says further areas bring faster guards and rarer eggs. Roblox’s gate-offer product descriptions also explicitly connect added Speed with opening the next gate. Together these support checking Speed when you are working toward another area.",
+          "Read the requirement at the gate you are currently trying to enter. A Speed amount advertised in a purchase offer is not a published map of every zone threshold, and it does not prove a minimum for your particular route. Keep your current total, the displayed requirement and any optional purchase amount separate."
+        ]
+      },
+      {
+        "id": "training-questions",
+        "heading": "Common Training Questions and Mistakes",
+        "subsections": [
+          {
+            "heading": "Check the activity before comparing gains",
+            "paragraphs": [
+              "If you cannot tell whether training is progressing, first read the prompt for the object you are using and any Speed feedback shown during the activity. Match the equipment name with its description before assuming it has the same effect as a similarly named shop item.",
+              "A training rate and a fixed Speed addition use different units. For example, more Speed per step describes repeated gains, while a gate offer describes an immediate addition. Neither wording establishes a fastest route without measurements."
+            ]
+          },
+          {
+            "heading": "Check requirements instead of chasing a universal number",
+            "paragraphs": [
+              "Use your next reachable gate or area as the comparison point. Avoid treating another player’s purchase offer as your own unlock requirement.",
+              "The public descriptions do not set out an idle-training rule, a fixed keyboard command or an AFK reward schedule. Follow the current game prompts for those details before leaving a session unattended."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I increase Speed in Raise A Catboy?",
+        "answer": "Firstlight Studio says to run on your Cat Wheel to gain Speed. The shop also lists training equipment and Speed offers; inspect those descriptions separately before buying."
+      },
+      {
+        "question": "What is the Cat Wheel?",
+        "answer": "It is the training equipment named in the official gameplay description. Running on it increases Speed. The public text does not provide a precise map location or interaction key."
+      },
+      {
+        "question": "Does Speed help when carrying eggs?",
+        "answer": "The game asks you to escape with eggs and introduces faster guards in new areas, so training is relevant preparation. The description does not specify a carrying-speed multiplier or guarantee that a Speed value makes every return safe."
+      },
+      {
+        "question": "Do different wheels give fixed bonuses?",
+        "answer": "The seven café treadmill listings describe more Speed per step without publishing individual rates. Check the current equipment offer rather than assigning a multiplier from its name."
+      }
+    ],
+    "lastReviewed": "2026-11-26"
   }
 ]

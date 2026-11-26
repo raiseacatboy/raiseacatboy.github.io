@@ -11,11 +11,7 @@ const primarySlugs = new Set([
   "eggs",
   "rarities",
   "mutations",
-  "thanksgiving-event",
   "codes",
-  "index",
-  "catboys",
-  "updates",
 ]);
 
 export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
